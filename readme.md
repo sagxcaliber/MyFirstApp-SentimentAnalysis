@@ -20,3 +20,11 @@ docker stop sentiment-app
 
 # View logs (replace <container-id> with actual ID)
 docker logs <container-id>
+
+Notes
+Frontend URL (Local): http://localhost:3000
+
+Backend API (Local): http://localhost:8000
+
+Public Test URL: http://13.126.212.61:3000
+
