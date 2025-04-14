@@ -26,5 +26,5 @@ Frontend URL (Local): http://localhost:3000
 
 Backend API (Local): http://localhost:8000
 
-Public Test URL: http://13.126.212.61:3000/
+Public Test URL: http://3.109.49.169:3000/
 
